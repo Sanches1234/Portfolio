@@ -1,5 +1,19 @@
-body {
-  background-color: blue;
+#projects{
+	float: left;
+	width: 50%;
+	background-color: #A8D0E6
+}
+
+#blogs{
+	float: right;
+	width: 50%;
+	background-color: #F76C6C
+}
+
+#music{
+	float: right;
+	width: 50%;
+	background-color: #24305E
 }
 
 h1 {
