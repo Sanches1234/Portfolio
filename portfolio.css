@@ -1,19 +1,37 @@
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
 #projects{
-	float: left;
-	width: 50%;
-	background-color: #A8D0E6
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: #A8D0E6
+
 }
 
 #blogs{
-	float: right;
-	width: 50%;
-	background-color: #F76C6C
+  width: 50%;
+  height: 50%;
+  float: left;
+  background-color: #F76C6C
 }
 
 #music{
-	float: right;
-	width: 50%;
-	background-color: #24305E
+  width: 50%;
+  height: 50%;
+  float: left;
+  background-color: #24305E
+}
+
+#ytPlaylist{
+	width: 500px;
+    height: 300px;
+    margin: 0 auto;
+	display: block;
+    border-style:none;
 }
 
 h1 {
@@ -23,4 +41,5 @@ h1 {
 
 p {
   color: white;
+  text-align: center;
 }
