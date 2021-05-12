@@ -275,7 +275,7 @@ img {
 	position: relative;
 	height: 150px;
 	width: 250px;
-	top: -50px;
+	top: -100px;
 	left: 50px;
 }
 
@@ -283,7 +283,7 @@ img {
 	position: relative;
 	height: 150px;
 	width: 250px;
-	top: -50px;
+	top: -100px;
 	left: 150px;
 }
 
@@ -291,7 +291,7 @@ img {
 	position: relative;
 	height: 150px;
 	width: 250px;
-	top: 150px;
+	top: 100px;
 	left: 50px;
 }
 
@@ -299,34 +299,34 @@ img {
 	position: relative;
 	height: 150px;
 	width: 250px;
-	top: 150px;
+	top: 100px;
 	left: 150px;
 }
 
 #HW1title{
 	position: relative;
-	top: 100px;
+	top: 50px;
 	left: -200px;
 	font-size: 24px;
 }
 
 #HW2title{
 	position: relative;
-	top: 50px;
+	top: 0px;
 	left: 150px;
 	font-size: 24px;
 }
 
 #HW3title{
 	position: relative;
-	top: 350px;
+	top: 300px;
 	left: -200px;
 	font-size: 24px;
 }
 
 #HW4title{
 	position: relative;
-	top: 300px;
+	top: 250px;
 	left: 150px;
 	font-size: 24px;
 }
